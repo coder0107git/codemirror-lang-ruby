@@ -1,5 +1,5 @@
 {
-  "name": "@taybenlor/codemirror-lang-ruby",
+  "name": "runno-codemirror-lang-ruby",
   "description": "A Ruby mode for CodeMirror 6",
   "version": "0.0.1",
   "type": "module",
